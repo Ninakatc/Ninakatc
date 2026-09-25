@@ -60,7 +60,7 @@ I'm always happy to connect, collaborate, and discuss new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 
-📧 **Email:** [YOUR_EMAIL_HERE]
+📧 **Email:** nino.katchiuri@esmt.berlin
 
 ---
 
